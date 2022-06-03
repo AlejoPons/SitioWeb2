@@ -1,0 +1,28 @@
+details { 
+    background-color: burlywood;
+}
+
+.principal {
+    background-color: chocolate;
+}
+
+.parrafoResaltado{
+    font-size: 24px;
+    padding: 40px;
+    border: double 10px red ;
+    background-color: coral;
+
+}
+
+#parrafoespecial{
+    background-color: coral;
+    border: 50px;
+    padding: 50px;
+}  
+#parrafoespecial:hover {
+    background-color: blueviolet;
+}
+p:hover{
+    text-decoration: underline;
+    transform: scale(100%);
+}
